@@ -31,6 +31,7 @@ When you run the application, follow the instructions:
 ### Example
 Here's an example of how the application works:
 
+```
 Welcome!
 
 There are indexed files. Do you want to reindex them (Y/N)?
@@ -95,7 +96,7 @@ Enter a search query (or type '!q' to quit):
 > !q
 
 Exiting program...
-
+ ```
 
 ### Notes
 - Ensure that the data directory contains text files (`*.txt`) for indexing.
